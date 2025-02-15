@@ -1,0 +1,6 @@
+nome_do_cliente = input("digite nome do cliente: ")
+Tele_do_cliente = input("digite Telefone do Cliente: ")
+Bairro_do_cliente = input ("Digite Bairro Do Cliente: ")
+print ("Nome:",nome_do_cliente)
+print ("Telefone:",Tele_do_cliente)
+print ("Bairro:",Bairro_do_cliente)
