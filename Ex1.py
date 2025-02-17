@@ -12,3 +12,4 @@ if aceita_risc1 == "bx":
         print("você deve abrir uma renda fixa")
     elif aceita_risc1 == "al":
         rend2 =int(input("quanto vc quer depositar? "))
+        if rend2 <(1000.0)
