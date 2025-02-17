@@ -8,3 +8,4 @@
 #maior ou igual 79 e menor 86 meio pesado
 #maior ou igual 90 e <100 pesado 
 #maior ou igual 100 pesado	
+
