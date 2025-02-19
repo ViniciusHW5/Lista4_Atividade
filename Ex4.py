@@ -9,7 +9,10 @@ idade = int(input("Digite A idade: "))
 gereno = input("Digite seu gereno: ")
 if gereno ==("M") or ("m") and idade >= 18 and idade < 39:
     print("voce pode servir.")
+    print("Vinicius Haskel Wilbert")
 if gereno ==("F") or ("f") and idade >= 21 and idade < 34:
     print("voce pode servir.")
+    print("Vinicius Haskel Wilbert")
 else:
     print('descupa voce nao pode servir')
+    print("Vinicius Haskel Wilbert")

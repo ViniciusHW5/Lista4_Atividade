@@ -6,5 +6,7 @@ votos_mais_votados =int(input("Digite a quantidade de votos de candidado mais vo
 porcentagem = (votos_mais_votados / eleitores)*100
 if eleitores >=200.000 and porcentagem <=50:
     print("no municipio de",municipio,"Havera segundo turno.")
+    print("Vinicius Haskel Wilbert")
 else:
     print("no municipio de",municipio,"não Havera segundo turno.")
+    print("Vinicius Haskel Wilbert")

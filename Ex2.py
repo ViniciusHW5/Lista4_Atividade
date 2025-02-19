@@ -16,30 +16,38 @@ if peso < (52):
 elif peso >= (52) and peso< (65):
     print(nome)
     print("peso pena")
+    print("Vinicius Haskel Wilbert")
 
 elif peso >= (62) and peso < (72):
     print(nome)
     print("peso pena")
+    print("Vinicius Haskel Wilbert")
 
 elif peso >= (72) and peso < (79):
     print(nome)
     print("peso ligeiro")
+    print("Vinicius Haskel Wilbert")
 
 elif peso >= (79) and peso < (86):
     print(nome)
     print("peso meio medio")
+    print("Vinicius Haskel Wilbert")
 
 elif peso >= (86) and peso < (90):
     print(nome)
     print("peso medio")
+    print("Vinicius Haskel Wilbert")
 
 elif peso >= (90) and peso < (100):
     print(nome)
     print("meio pesado")
+    print("Vinicius Haskel Wilbert")
 
 elif peso >= (100):
     print(nome)
     print("peso pesado")
+    print("Vinicius Haskel Wilbert")
+    
 
 
 

@@ -9,12 +9,17 @@ if aceita_risco == 'bx' or aceita_risco == 'al':
     if valor_investido < 1000.00:
         if aceita_risco == "bx":
             print("voce deve abrir um poupança.")
+            print("Vinicius Haskel Wilbert")
         else:
             print("voce deve abrir uma renda fixa.")
+            print("Vinicius Haskel Wilbert")
     elif aceita_risco == "al":
         if valor_investido < 1000.00:   
             print("voce deve investir em bitcoin")
+            print("Vinicius Haskel Wilbert")
     else:
         print("voce deve abrir uma ação.")
+        print("Vinicius Haskel Wilbert")
 if aceita_risco != "bx" and aceita_risco != "al":
     print("Dado invalido tente novamente!")
+    print("Vinicius Haskel Wilbert")

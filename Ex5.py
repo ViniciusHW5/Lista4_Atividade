@@ -9,3 +9,4 @@ else:
     margem = 0.35
 preco_venda =preco_custo * (1+margem)
 print("O preço de venda do protudo é:R$",preco_venda)
+print("Vinicius Haskel Wilbert")
